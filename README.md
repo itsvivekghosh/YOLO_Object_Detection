@@ -4,7 +4,7 @@ YOLO Object Detection
 ## YOLO: Real-Time Object Detection
 ***
 ***You only look once (YOLO) is a state-of-the-art, real-time object detection system. On a Pascal Titan X it processes images at 30 FPS and has a mAP of 57.9% on COCO test-dev.***
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/MPU2HistivI)
+[![Watch the video](https://pjreddie.com/media/image/yologo_2.png)](https://youtu.be/MPU2HistivI)
 <br>
 <p>
 Comparison to Other Detectors<br>
